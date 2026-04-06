@@ -1,4 +1,4 @@
-# 🛰️ upside-down-QR-signals
+#  upside-down-QR-signals
 
 A corrupted transmission was detected during the investigation of the missing developer.
 
